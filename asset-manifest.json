@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolioFP/static/css/main.9468823b.css",
+    "main.js": "/portfolioFP/static/js/main.ffa8588f.js",
+    "static/media/React-App-netflix-clone.png": "/portfolioFP/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
+    "static/media/Charlestown-Pizza.png": "/portfolioFP/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
+    "static/media/Gridlinesbuilders.png": "/portfolioFP/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
+    "static/media/olx-clone image.png": "/portfolioFP/static/media/olx-clone image.887047ffbf12c447e947.png",
+    "static/media/Admin-Panel-Dashboard.png": "/portfolioFP/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
+    "static/media/web-removebg-preview.png": "/portfolioFP/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/portfolioFP/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/todolist.png": "/portfolioFP/static/media/todolist.13858f78acbb5bec224e.png",
+    "static/media/logor.png": "/portfolioFP/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/bars.svg": "/portfolioFP/static/media/bars.a2e35dd5aede7934d82e.svg",
+    "index.html": "/portfolioFP/index.html",
+    "main.9468823b.css.map": "/portfolioFP/static/css/main.9468823b.css.map",
+    "main.ffa8588f.js.map": "/portfolioFP/static/js/main.ffa8588f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9468823b.css",
+    "static/js/main.ffa8588f.js"
+  ]
+}
