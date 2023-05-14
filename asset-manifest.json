@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolioFP/static/css/main.36b8aca9.css",
-    "main.js": "/portfolioFP/static/js/main.ae75d25e.js",
+    "main.css": "/portfolioFP/static/css/main.010ba81f.css",
+    "main.js": "/portfolioFP/static/js/main.38cfe785.js",
     "static/media/React-App-netflix-clone.png": "/portfolioFP/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
     "static/media/Charlestown-Pizza.png": "/portfolioFP/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
     "static/media/Gridlinesbuilders.png": "/portfolioFP/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
@@ -13,11 +13,11 @@
     "static/media/logor.png": "/portfolioFP/static/media/logor.79880cc41de9b15f45b5.png",
     "static/media/bars.svg": "/portfolioFP/static/media/bars.a2e35dd5aede7934d82e.svg",
     "index.html": "/portfolioFP/index.html",
-    "main.36b8aca9.css.map": "/portfolioFP/static/css/main.36b8aca9.css.map",
-    "main.ae75d25e.js.map": "/portfolioFP/static/js/main.ae75d25e.js.map"
+    "main.010ba81f.css.map": "/portfolioFP/static/css/main.010ba81f.css.map",
+    "main.38cfe785.js.map": "/portfolioFP/static/js/main.38cfe785.js.map"
   },
   "entrypoints": [
-    "static/css/main.36b8aca9.css",
-    "static/js/main.ae75d25e.js"
+    "static/css/main.010ba81f.css",
+    "static/js/main.38cfe785.js"
   ]
 }
