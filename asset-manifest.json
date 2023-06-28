@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolioFP/static/css/main.f4639447.css",
-    "main.js": "/portfolioFP/static/js/main.62b8b4a6.js",
+    "main.css": "/portfolioFP/static/css/main.bd82c822.css",
+    "main.js": "/portfolioFP/static/js/main.1d0dfb7b.js",
     "static/media/projectX.png": "/portfolioFP/static/media/projectX.e4e4498b16d4fd5fcc6d.png",
     "static/media/cypress.png": "/portfolioFP/static/media/cypress.7fd000a634a0b079833d.png",
     "static/media/web-removebg-preview.png": "/portfolioFP/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
     "static/media/Web-designer-1024x821.webp": "/portfolioFP/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/coming-soon.png": "/portfolioFP/static/media/coming-soon.f323224fef950cf21abc.png",
     "static/media/logor.png": "/portfolioFP/static/media/logor.79880cc41de9b15f45b5.png",
-    "static/media/bars.svg": "/portfolioFP/static/media/bars.b264a25d796c08e0e322.svg",
+    "static/media/bars.svg": "/portfolioFP/static/media/bars.a2e35dd5aede7934d82e.svg",
     "index.html": "/portfolioFP/index.html",
-    "main.f4639447.css.map": "/portfolioFP/static/css/main.f4639447.css.map",
-    "main.62b8b4a6.js.map": "/portfolioFP/static/js/main.62b8b4a6.js.map"
+    "main.bd82c822.css.map": "/portfolioFP/static/css/main.bd82c822.css.map",
+    "main.1d0dfb7b.js.map": "/portfolioFP/static/js/main.1d0dfb7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4639447.css",
-    "static/js/main.62b8b4a6.js"
+    "static/css/main.bd82c822.css",
+    "static/js/main.1d0dfb7b.js"
   ]
 }
